@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af283d12-6d33-4083-b85a-f213be9c34c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/03_text_query_with_bound_parameteres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/04_basic_select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/05_load_all_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/06_using_column_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/07_qerries_with_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/08_conjunctions_alternatives_negations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/09_select_fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/10_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/11_joins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/12_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/13_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/14_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/15_group_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/16_defining_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/chinook_to_employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/zadania_1-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/core/zadanie_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/01_create_mapping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/02_add_multitple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/04_basic_querry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/05_populate_with_enhanced_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/06_accessing_relationship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/07_model_enhanced_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/books.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/model_enhanced.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/examples/orm/session_workflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/users/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bazy_danych/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend_small/viewer/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend_small/viewer/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend_small/viewer/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_site/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdaworld/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdaworld/blog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sdaworld/blog/templates/post_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/java/javascript.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/java/javascript.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20XufQyoSrhg5BentPFPM8G0tWv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python_Kurs\Mafia-board-game\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="./manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af283d12-6d33-4083-b85a-f213be9c34c3" name="Changes" comment="" />
+      <created>1636203355575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636203355575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
