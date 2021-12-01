@@ -171,3 +171,11 @@ cython_debug/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+/.idea/misc.xml
+/.idea/mysite.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/misc.xml
+/.idea/mysite.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
